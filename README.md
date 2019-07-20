@@ -1,4 +1,4 @@
-# @mjeightyfive/moments [![Build Status](https://travis-ci.com/mjeightyfive/moments.svg?branch=master)](https://travis-ci.com/mjeightyfive/@mjeightyfive/moments)
+# @mjeightyfive/moments [![Build Status](https://travis-ci.com/mjeightyfive/moments-cli.svg?branch=master)](https://travis-ci.com/mjeightyfive/@mjeightyfive/moments)
 
 > Rename Photos.app exported folders
 

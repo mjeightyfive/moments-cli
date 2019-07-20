@@ -1,0 +1,41 @@
+{
+    "name": "@mjeightyfive/moments-cli",
+    "version": "0.0.0",
+    "description": "Rename Photos.app exported folders",
+    "main": "cli.js",
+    "bin": {
+        "moments": "./cli.js"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "dayjs": "1.8.15",
+        "meow": "5.0.0",
+        "ora": "3.4.0",
+        "subdirs": "1.0.1"
+    },
+    "devDependencies": {
+        "@mjeightyfive/eslint-config": "0.0.10",
+        "babel-eslint": "10.0.2",
+        "jest": "24.8.0",
+        "mock-fs": "4.10.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mjeightyfive/moments-cli.git"
+    },
+    "keywords": [
+        "moments",
+        "date",
+        "format",
+        "folder",
+        "rename"
+    ],
+    "author": "Marcin <mjeightyfive@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mjeightyfive/moments-cli/issues"
+    },
+    "homepage": "https://github.com/mjeightyfive/moments-cli#readme"
+}
